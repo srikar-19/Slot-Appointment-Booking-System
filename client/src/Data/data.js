@@ -4,11 +4,11 @@ export const userMenu = [
         path:'/',
         icon:"fa-solid fa-house",
     },
-    // {
-    //     name:'Slots',
-    //     path:'/appointments',
-    //     icon:"fa-solid fa-list",
-    // },
+    {
+        name:'Slots',
+        path:'/appointments',
+        icon:"fa-solid fa-list",
+    },
     {
         name:'Book the Slot',
         path:'/apply-doctor',
