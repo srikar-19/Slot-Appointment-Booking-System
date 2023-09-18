@@ -4,7 +4,8 @@
 This is a MERN stack project that allows users to book slots using CALENDAR DATE AND TIME SLOTS AVAILABLE. 
 Users can log in using their email and a one-time password (OTP) that is sent to their email. 
 
--> Technologies used  are: 
+-> Technologies used  are:
+
   *Front end : Html , Css , ReactJs , Redux
   *Back end : Node.js , MongoDB
 
@@ -16,10 +17,11 @@ Users can log in using their email and a one-time password (OTP) that is sent to
 
   
 -> Installation
+
 To run this project locally, 
   you need to have NodeJS and MongoDB installed on your machine. 
 
-PORT: The port number for the Front end is : 3000 and Back end : 8080
+PORT: The port number for the Front end is : 3000 and Back end is : 8080
 
 
 # Install dependencies for server
