@@ -19,7 +19,7 @@ Users can log in using their email and a one-time password (OTP) that is sent to
 -> Installation
 
 To run this project locally, 
-  you need to have NodeJS and MongoDB installed on your machine. 
+  you need to have NodeJS and MongoDB installed on your system. 
 
 PORT: The port number for the Front end is : 3000 and Back end is : 8080
 
